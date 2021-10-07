@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 
 class HelloWorld
@@ -26,7 +26,9 @@ class HelloWorld
         Console.WriteLine($"Wow {A} {B}! you have {money} doller! you are rich!");
         Console.WriteLine($"there {language[1,2]} in this pargram");
         Console.WriteLine(language.Length);
-    }
+        Console.WriteLine("Make some change");
+        
+    } 
 }
 
 
